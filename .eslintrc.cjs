@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = { // eslint-disable-line no-undef
   env: { browser: true, es2020: true },
   extends: [
     'eslint:recommended',
